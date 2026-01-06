@@ -23,7 +23,7 @@ A Python-based automation testing framework for validating payment workflows usi
 ---
 
 ## 📁 Project Structure
-
+```text
 payment-automation-testing-framework/
 │
 ├── tests/
@@ -37,6 +37,7 @@ payment-automation-testing-framework/
 └── README.md
 
 ## Clone the repository
+```bash
 git clone https://github.com/Datahustler26/payment-automation-testing-framework.git
 cd payment-automation-testing-framework
 
