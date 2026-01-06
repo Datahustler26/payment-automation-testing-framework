@@ -1,44 +1,38 @@
-# Payment Automation Testing Framework
-
+# 💳 Payment Automation Testing Framework
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Test](https://img.shields.io/badge/Test-Pytest-yellowgreen)
+![Pytest](https://img.shields.io/badge/Test-Pytest-yellowgreen)
 ![Testing](https://img.shields.io/badge/Testing-API-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A Python-based automation testing framework for validating payment workflows using API and UI tests.
+A Python-based automation testing framework designed to validate **payment workflows** using **API and UI test automation**.  
+This project demonstrates practical SDET skills in regression testing, test design, and CI/CD-ready automation.
 
 ---
 
-## 🚀 Features
-- API automation using **pytest** and **requests**
-- UI automation placeholder tests (ready for Selenium / Playwright)
-- Clean and scalable project structure
-- Pytest configuration support
-- CI/CD-ready framework design
-- Virtual environment properly ignored
+## 🚀 Key Features
+
+- ✅ API automation using **Pytest** and **Requests**
+- 🧪 Covers positive, negative, and basic validation scenarios
+- 🖥️ UI automation **placeholder tests** (ready for Selenium / Playwright integration)
+- 🧱 Clean, scalable, and maintainable project structure
+- ⚙️ Pytest configuration support
+- 🔁 CI/CD-ready framework design
+- 🚫 Virtual environments and cache files properly ignored
 
 ---
 
 ## 🛠️ Tech Stack
-- Python 3.x
-- Pytest
-- Requests
-- Git & GitHub
+
+- **Language:** Python 3.x  
+- **Testing Framework:** Pytest  
+- **API Testing:** Requests  
+- **Version Control:** Git & GitHub  
 
 ---
 
-## Clone the repository
-
-git clone https://github.com/Datahustler26/payment-automation-testing-framework.git
-cd payment-automation-testing-framework
-
-## Create a virtual environment
-python -m venv venv
-
-## ▶️ Run Tests
-pytest
 ## 📁 Project Structure
+
 ```text
 payment-automation-testing-framework/
 │
@@ -51,8 +45,3 @@ payment-automation-testing-framework/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
-
-
-
-
